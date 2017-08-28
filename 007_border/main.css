@@ -1,0 +1,21 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+img {
+    border: 10px groove orangered;
+}
+
+.darktemplar2 {
+    border: 10px dashed orangered;
+}
+
+.darktemplar3 {
+    border: 10px double orangered;
+}
+
+.darktemplar4 {
+    border: 10px dotted orangered;
+}
