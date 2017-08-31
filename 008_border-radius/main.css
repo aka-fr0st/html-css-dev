@@ -1,0 +1,27 @@
+div {
+    width: 100%;
+    height: 100%;
+    border: 1px solid cadetblue;
+    border-radius: 100%;
+    background-image: url("../000_img/dark-templar.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+img {
+    border: 10px groove cadetblue;
+    border-radius: 100%;
+}
+
+.darktemplar2 {
+    border: 10px dashed cadetblue;
+}
+
+.darktemplar3 {
+    border: 10px double cadetblue;
+}
+
+.darktemplar4 {
+    border: 10px dotted cadetblue;
+}
