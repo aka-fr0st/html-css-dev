@@ -1,0 +1,27 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+
+img {
+    border: 10px groove cadetblue;
+    border-radius: 100%;
+    padding: 50px;
+    margin: 200px;
+}
+
+.darktemplar2 {
+    border: 10px dashed cadetblue;
+}
+
+.darktemplar3 {
+    border: 10px double cadetblue;
+}
+
+.darktemplar4 {
+    border: 10px dotted cadetblue;
+}
